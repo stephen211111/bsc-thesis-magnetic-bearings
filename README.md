@@ -41,7 +41,7 @@ prototype and is confidential at this stage.
 A full technical account of the bearing system, PoC architecture, and 
 prototype development is maintained on the Terminus Energy website:
 
-**→ [terminus-energy.com — PoC & Technology](https://www.terminus-energy.com/#solution)**
+**→ [terminus-energy.com — PoC & Technology](https://www.terminus-energy.com/#poc)**
 
 For technical collaboration or investor due diligence enquiries:
 **→ contact@terminus-energy.com**
